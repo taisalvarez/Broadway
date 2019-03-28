@@ -1,0 +1,12 @@
+https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/mocks/broadway.png
+
+https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/mocks/broadway_redline.jpg
+
+https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png
+
+https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/identify.svg
+
+https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/understand.svg
+
+https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/execute.svg
+
